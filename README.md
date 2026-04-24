@@ -6,7 +6,7 @@
 ### 👨‍💻 About Me
 
 - 🌍 Based in India  
-- 🖥️ Portfolio: [portfolio3d-fawn.vercel.app](http://portfolio3d-fawn.vercel.app/)  
+- 🖥️ Portfolio: [portfolio3d-fawn.vercel.app](https://iamkuldeep.in/)  
 - ✉️ Email: kuldeep45.kd@gmail.com  
 - 🧠 Currently learning **Backend Development & System Design**  
 - 👥 Open to collaborating on **innovative and impactful projects**  
