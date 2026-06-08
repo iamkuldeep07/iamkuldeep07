@@ -2,13 +2,13 @@
 
 ### Full Stack Developer | Backend Learner | DSA Enthusiast
 
-<img align="right" alt="coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
-- 🎓 B.Tech in Electronics & Communication Engineering at NIT Meghalaya
-- 🌱 Currently learning **Backend Development, System Design, and Scalable Architectures**
-- 💻 Passionate about Full Stack Development and Problem Solving
+- 🎓 B.Tech in Electronics & Communication Engineering at **NIT Meghalaya**
+- 🌱 Currently learning **Backend Development, System Design & Scalable Architectures**
+- 💻 Passionate about **Full Stack Development** and **Problem Solving**
 - 🚀 Building impactful products and developer-focused tools
 - 📈 Solving DSA problems on LeetCode and Codeforces
 - 🤝 Open to collaborating on innovative projects
@@ -65,34 +65,31 @@
 
 ---
 
-## 📊 GitHub Stats
+## 🚀 Featured Projects
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=iamkuldeep07&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"
-    height="170"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamkuldeep07&layout=compact&theme=tokyonight&hide_border=true"
-    height="170"
-  />
-</p>
+### 📚 UniHub
+A platform for students to share notes, projects, previous year papers, and study materials.
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=iamkuldeep07&theme=tokyonight&hide_border=true"
-  />
-</p>
+### 🤖 AI Note PDF
+AI-powered PDF note-taking application built with Next.js.
+
+### ❤️ Anniversary Website
+Interactive React-based experience with animations and modern UI.
+
+### 🌐 Portfolio Website
+Personal portfolio built with Next.js and Tailwind CSS.
 
 ---
 
-## 🚀 Current Focus
+## 📊 GitHub Activity
 
-- Building scalable full-stack applications
-- Strengthening Data Structures & Algorithms
-- Learning Backend Engineering & System Design
-- Exploring Cloud & DevOps
-- Preparing for Software Engineering internships and placements
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamkuldeep07&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkuldeep07&theme=tokyo-night&hide_border=true" />
+</p>
 
 ---
 
@@ -106,9 +103,26 @@
 
 ---
 
-## 📈 Contribution Graph
+## 🎯 Current Focus
 
-[![Kuldeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=iamkuldeep07&theme=tokyo-night)](https://github.com/iamkuldeep07)
+- Building scalable Full Stack applications
+- Strengthening Data Structures & Algorithms
+- Learning Backend Engineering & System Design
+- Exploring Cloud & DevOps
+- Preparing for Software Engineering Internships and Placements
+
+---
+
+## 📈 Coding Profiles
+
+<p align="left">
+  <a href="https://leetcode.com/">
+    <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
+  </a>
+  <a href="https://codeforces.com/">
+    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="45"/>
+  </a>
+</p>
 
 ---
 
@@ -118,12 +132,10 @@
 
 ---
 
-### 🚀 Featured Projects
+<div align="center">
 
-- 📚 **UniHub** – Platform for sharing notes, projects, and study materials.
-- 🤖 **AI Note PDF** – AI-powered PDF note-taking application.
-- 🌐 **Portfolio Website** – Modern developer portfolio built with Next.js.
+### ⭐ Thanks for visiting my profile!
 
----
+If you like my work, consider starring my repositories and connecting with me.
 
-⭐ **If you like my work, consider starring my repositories and connecting with me!**
+</div>
