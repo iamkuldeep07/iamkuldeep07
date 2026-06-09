@@ -67,14 +67,8 @@
 
 ## 🚀 Featured Projects
 
-### 📚 UniHub
-A platform for students to share notes, projects, previous year papers, and study materials.
-
 ### 🤖 AI Note PDF
 AI-powered PDF note-taking application built with Next.js.
-
-### ❤️ Anniversary Website
-Interactive React-based experience with animations and modern UI.
 
 ### 🌐 Portfolio Website
 Personal portfolio built with Next.js and Tailwind CSS.
@@ -97,7 +91,7 @@ Personal portfolio built with Next.js and Tailwind CSS.
 
 - 🥈 96.89 Percentile in JEE Mains
 - 🎓 B.Tech Student at NIT Meghalaya
-- 🏅 4th Position in Hackathon Competitions
+- 🏅 1st Position in Hackathon Competitions
 - 🏆 3rd Place in Robo Rumble
 - 🏆 3rd Place in Robodiction
 
@@ -119,7 +113,7 @@ Personal portfolio built with Next.js and Tailwind CSS.
   <a href="https://leetcode.com/">
     <img src="https://skillicons.dev/icons?i=leetcode" height="45"/>
   </a>
-  <a href="https://codeforces.com/">
+  <a href="https://leetcode.com/u/iamkuldeep20/">
     <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/codeforces.svg" height="45"/>
   </a>
 </p>
