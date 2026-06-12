@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Backend Learner | DSA Enthusiast
 
-<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -79,6 +79,7 @@ Personal portfolio built with Next.js and Tailwind CSS.
 
 ## 📊 GitHub Activity
 
+<!-- Contribution Snake Animation -->
 <div align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/iamkuldeep07/iamkuldeep07/output/github-contribution-grid-snake-dark.svg">
@@ -89,10 +90,12 @@ Personal portfolio built with Next.js and Tailwind CSS.
 
 <br/>
 
+<!-- GitHub Contribution Stats -->
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamkuldeep07&show_icons=true&theme=tokyonight&hide_border=true" alt="Kuldeep's GitHub Stats" />
 </p>
 
+<!-- GitHub Activity Graph -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamkuldeep07&theme=tokyo-night&hide_border=true" />
 </p>
