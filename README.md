@@ -2,7 +2,7 @@
 
 ### Full Stack Developer | Backend Learner | DSA Enthusiast
 
-<img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ## 👨‍💻 About Me
 
@@ -90,7 +90,7 @@ Personal portfolio built with Next.js and Tailwind CSS.
 <br/>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=iamkuldeep07&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=iamkuldeep07&show_icons=true&theme=tokyonight&hide_border=true" alt="Kuldeep's GitHub Stats" />
 </p>
 
 <p align="center">
